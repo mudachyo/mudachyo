@@ -6,8 +6,6 @@
 <img src="https://img.shields.io/badge/Telegram-%232E87FB?color=5865F2&style=for-the-badge&logo=telegram&logoColor=white"alt="Telegram"/>
 </a>
 </p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudachyo&layout=compact&custom_title=Языки программирования&show_icons=true&disable_animations=false&icon_color=ffe32e&title_color=ffffff&text_color=ffffff&border_color=5865F2&bg_color=5865F2" alt="mudachyo" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mudachyo&show_icons=true&icon_color=ffe32e&title_color=ffffff&text_color=ffffff&border_color=5865F2&bg_color=5865F2&cache_seconds=1800&locale=en" alt="mudachyo" /></p>
 
 
