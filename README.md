@@ -7,6 +7,6 @@
 
 
 
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mudachyo)](https://github.com/LordDashMe/github-contribution-stats/)
 <p align="center"><img src="https://myreadme.vercel.app/api/embed/mudachyo?panels=userstatistics,toplanguages,commitgraph"/></p>
 <p align="center"><img src="https://raw.githubusercontent.com/mudachyo/mudachyo/output/github-contribution-grid-snake.svg"></p>
