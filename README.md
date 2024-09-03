@@ -6,6 +6,5 @@
 <a href="https://discordapp.com/users/572460438776971271"><img src="https://img.shields.io/badge/Discord-%232E87FB?style=for-the-badge&logo=Discord&logoColor=white&color=5865F2"/></a></p>
 
 
-
-<p align="center">[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mudachyo)](https://github.com/LordDashMe/github-contribution-stats/)</p>
+<p align="center"><img src="https://github-contribution-stats.vercel.app/api/?username=mudachyo"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/mudachyo/mudachyo/output/github-contribution-grid-snake.svg"></p>
